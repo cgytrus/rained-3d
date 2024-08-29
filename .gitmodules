@@ -1,6 +1,6 @@
 [submodule "src/Drizzle"]
 	path = src/Drizzle
-	url = https://github.com/pkhead/Drizzle
+	url = https://github.com/cgytrus/Drizzle-3D
 	branch = embedded
 [submodule "ImGui.NET"]
 	path = src/ImGui.NET
